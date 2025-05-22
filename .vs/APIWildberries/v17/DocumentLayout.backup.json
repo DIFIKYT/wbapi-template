@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E0752A-85AA-43DA-AF32-49E879A43761}|APIWildberries\\APIWildberries.csproj|c:\\localfiles\\projects\\apiwildberriesskeleton\\apiwildberries\\warehousenames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E0752A-85AA-43DA-AF32-49E879A43761}|APIWildberries\\APIWildberries.csproj|solutionrelative:apiwildberries\\warehousenames.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E0752A-85AA-43DA-AF32-49E879A43761}|APIWildberries\\APIWildberries.csproj|c:\\localfiles\\projects\\apiwildberriesskeleton\\apiwildberries\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E0752A-85AA-43DA-AF32-49E879A43761}|APIWildberries\\APIWildberries.csproj|solutionrelative:apiwildberries\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E0752A-85AA-43DA-AF32-49E879A43761}|APIWildberries\\APIWildberries.csproj|c:\\localfiles\\projects\\apiwildberriesskeleton\\apiwildberries\\sheetinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E0752A-85AA-43DA-AF32-49E879A43761}|APIWildberries\\APIWildberries.csproj|solutionrelative:apiwildberries\\sheetinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E0752A-85AA-43DA-AF32-49E879A43761}|APIWildberries\\APIWildberries.csproj|c:\\localfiles\\projects\\apiwildberriesskeleton\\apiwildberries\\spreadsheettitles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E0752A-85AA-43DA-AF32-49E879A43761}|APIWildberries\\APIWildberries.csproj|solutionrelative:apiwildberries\\spreadsheettitles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 432,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarehouseNames.json",
+              "DocumentMoniker": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\APIWildberries\\WarehouseNames.json",
+              "RelativeDocumentMoniker": "APIWildberries\\WarehouseNames.json",
+              "ToolTip": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\APIWildberries\\WarehouseNames.json",
+              "RelativeToolTip": "APIWildberries\\WarehouseNames.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T16:08:21.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpreadsheetTitles.json",
+              "DocumentMoniker": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\APIWildberries\\SpreadsheetTitles.json",
+              "RelativeDocumentMoniker": "APIWildberries\\SpreadsheetTitles.json",
+              "ToolTip": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\APIWildberries\\SpreadsheetTitles.json",
+              "RelativeToolTip": "APIWildberries\\SpreadsheetTitles.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T16:08:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SheetInfo.JSON",
+              "DocumentMoniker": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\APIWildberries\\SheetInfo.JSON",
+              "RelativeDocumentMoniker": "APIWildberries\\SheetInfo.JSON",
+              "ToolTip": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\APIWildberries\\SheetInfo.JSON",
+              "RelativeToolTip": "APIWildberries\\SheetInfo.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T16:08:20.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.json",
+              "DocumentMoniker": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\APIWildberries\\Config.json",
+              "RelativeDocumentMoniker": "APIWildberries\\Config.json",
+              "ToolTip": "C:\\LocalFiles\\Projects\\APIWildberriesSkeleton\\APIWildberries\\Config.json",
+              "RelativeToolTip": "APIWildberries\\Config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T16:08:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
