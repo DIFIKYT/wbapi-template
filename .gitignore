@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Secrets
+.env
+*.json
+*.secrets
+
+# System
+.DS_Store
+Thumbs.db
