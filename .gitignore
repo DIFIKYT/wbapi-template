@@ -1,16 +1,18 @@
-# Visual Studio
-.vs/
-*.user
-*.suo
-
-# Build output
+# Build
 bin/
 obj/
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
 
 # Secrets
 .env
 *.json
 *.secrets
+secrets/
 
 # System
 .DS_Store
